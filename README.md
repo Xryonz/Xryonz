@@ -16,7 +16,7 @@ let theo = {
   role:     "IT Technician Student @ IFC",
   focus:    "Front-end Development",
   building: ["React", "TypeScript", "Node.js", "Tailwind CSS", "MySQL"],
-  looking:  "Internship / Jr · Remote 🌐",
+  looking:  "Internship / Jr · Remote 🌐"
 };
 ```
 
