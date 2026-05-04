@@ -12,7 +12,7 @@
 <br/>
 
 ```javascript
-const theo = {
+let theo = {
   role:     "IT Technician Student @ IFC",
   focus:    "Front-end Development",
   building: ["React", "TypeScript", "Node.js", "Tailwind CSS", "MySQL"],
